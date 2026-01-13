@@ -1,0 +1,6 @@
+{
+    "name": "advisoros-parser",
+    "version": "1.0.0",
+    "description": "AdvisorOS Life Insurance Illustration Parser API",
+    "private": true
+}
